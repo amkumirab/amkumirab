@@ -1,4 +1,10 @@
-# Hi, I'm Mirab
+<div align="center">
+
+<img src="./assets/identity.svg" width="900" alt="Mirab's animated ASCII portrait and name; Data Analysis student in Messina, Italy" />
+
+</div>
+
+## Hi, I'm Mirab
 
 My name is AmirAli Mirabzadeh Ardekani, but I go by Mirab. I'm a Data Analysis student based in Messina, Italy.
 
@@ -17,8 +23,12 @@ Alongside that, I'm learning C++ as a step toward game development. I enjoy vide
 - [Solo Studying](https://github.com/amkumirab/solo-studying-app): An Android app that turns study sessions into RPG-style progress and rewards.
 - [Gesture Canvas](https://github.com/amkumirab/gesture-canvas): A drawing canvas controlled through hand gestures.
 
-## Tools I work with
+<div align="center">
 
-Python · Kotlin / Jetpack Compose · Flutter / Dart · COMSOL
+<img src="./assets/contributions.svg" width="900" alt="Mirab's GitHub contribution calendar with an animated spacecraft" />
 
-Currently learning: C++
+<br><br>
+
+<img src="./assets/signal.svg" width="900" alt="Public GitHub activity and primary languages across Mirab's repositories" />
+
+</div>

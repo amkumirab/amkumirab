@@ -1,0 +1,11 @@
+{
+  "username": "amkumirab",
+  "name": "Mirab",
+  "wordmark": "MIRAB",
+  "role": "Data Analysis student",
+  "location": "Messina, Italy",
+  "status": "Building tools for problems I encounter.",
+  "website": "",
+  "photo": "assets/profile-source.jpg",
+  "skills": ["Python", "Kotlin", "Compose", "Flutter", "COMSOL", "C++ learner"]
+}
